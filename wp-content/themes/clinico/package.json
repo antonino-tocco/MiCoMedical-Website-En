@@ -1,0 +1,18 @@
+{
+  "name": "clinico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonino Tocco",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^12.0.1",
+    "requirejs": "^2.1.22"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
